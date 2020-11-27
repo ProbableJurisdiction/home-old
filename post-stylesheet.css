@@ -5,3 +5,12 @@ div {
   padding-left: 20px;
   width: 50%
 }
+
+@font-face {
+  font-family: "cheltenham";
+  src: url("/home/cheltenham-cond-normal-700.ttf")
+}
+
+h1 {
+  font-family: "cheltenham"
+}
