@@ -11,7 +11,11 @@ div {
 }
 
 a {
-  color:#0000ff;
+  color: blue;
+}
+
+a:visited {
+  color: blue;
 }
 
 h1 {
