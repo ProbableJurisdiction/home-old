@@ -10,7 +10,7 @@ div {
   src: url("/home/cheltenham-cond-normal-700.ttf");
 }
 
-a:link, a:visited {
+a {
   color:#0000ff;
 }
 
