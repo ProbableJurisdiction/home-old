@@ -1,8 +1,15 @@
-div {
+div.padding {
   padding-top: 20px;
   padding-right: 300px;
   padding-bottom: 20px;
   padding-left: 300px;
+}
+
+@media screen and (max-width: 600px) {
+  div.padding {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
 }
 
 @font-face {
